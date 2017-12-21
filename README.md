@@ -1,7 +1,4 @@
 # Chatbot
-[![Build Status](https://travis-ci.org/debajyotiguha11/chatbot.svg?branch=master)](https://travis-ci.org/debajyotiguha11/chatbot)
-[![license](https://img.shields.io/github/license/debajyotiguha11/chatbot.svg?)]()
-
 AI Based chatbot using Python and AIML
 
 ### Requirements
