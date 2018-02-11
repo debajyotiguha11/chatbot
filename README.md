@@ -2,7 +2,7 @@
 AI Based chatbot using Python and AIML
 
 ### Requirements
-    Python >= 2.7
+    Python >= 2.x
     AIML
 
 ## Installation
